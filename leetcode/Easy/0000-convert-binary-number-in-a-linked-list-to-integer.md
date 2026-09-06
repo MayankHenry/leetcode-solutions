@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy  
 **Tags:** Linked List, Math  
-**URL:** [LeetCode](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/?difficulty=Easy&language=Java)
+**URL:** [LeetCode](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/submissions/2132990689/?difficulty=Easy&language=Java)
 
 ---
 
