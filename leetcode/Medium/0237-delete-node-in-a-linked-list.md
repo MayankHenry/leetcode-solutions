@@ -2,7 +2,7 @@
 
 **Difficulty:** Medium  
 **Tags:** Linked List  
-**URL:** [LeetCode](https://leetcode.com/problems/delete-node-in-a-linked-list/)
+**URL:** [LeetCode](https://leetcode.com/problems/delete-node-in-a-linked-list/submissions/2132943648/)
 
 ---
 
