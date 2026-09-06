@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy  
 **Tags:** Linked List, Recursion  
-**URL:** [LeetCode](https://leetcode.com/problems/remove-linked-list-elements/?difficulty=Easy&language=Java)
+**URL:** [LeetCode](https://leetcode.com/problems/remove-linked-list-elements/submissions/2132999418/?difficulty=Easy&language=Java)
 
 ---
 
