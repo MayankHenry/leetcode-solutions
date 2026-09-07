@@ -2,7 +2,7 @@
 
 **Difficulty:** Medium  
 **Tags:** Linked List, Two Pointers  
-**URL:** [LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/2134118252/?difficulty=Easy&language=Java)
+**URL:** [LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/?difficulty=Easy&language=Java)
 
 ---
 
