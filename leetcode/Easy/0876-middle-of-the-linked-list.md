@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy  
 **Tags:** Linked List, Two Pointers  
-**URL:** [LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/?difficulty=Easy&language=Java)
+**URL:** [LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/submissions/2134103649/?difficulty=Easy&language=Java)
 
 ---
 
