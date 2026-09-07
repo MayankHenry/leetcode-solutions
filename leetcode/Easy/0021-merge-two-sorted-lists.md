@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy  
 **Tags:** Linked List, Recursion  
-**URL:** [LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/?difficulty=Easy&language=Java)
+**URL:** [LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/submissions/2134133218/?difficulty=Easy&language=Java)
 
 ---
 
