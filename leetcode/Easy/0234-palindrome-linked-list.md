@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy  
 **Tags:** Linked List, Two Pointers, Stack, Recursion  
-**URL:** [LeetCode](https://leetcode.com/problems/palindrome-linked-list/?difficulty=Easy&language=Java)
+**URL:** [LeetCode](https://leetcode.com/problems/palindrome-linked-list/submissions/2134167051/?difficulty=Easy&language=Java)
 
 ---
 
