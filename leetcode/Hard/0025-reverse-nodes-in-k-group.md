@@ -2,7 +2,7 @@
 
 **Difficulty:** Hard  
 **Tags:** Linked List, Recursion  
-**URL:** [LeetCode](https://leetcode.com/problems/reverse-nodes-in-k-group/?difficulty=Easy&language=Java)
+**URL:** [LeetCode](https://leetcode.com/problems/reverse-nodes-in-k-group/submissions/2136600976/?difficulty=Easy&language=Java)
 
 ---
 
