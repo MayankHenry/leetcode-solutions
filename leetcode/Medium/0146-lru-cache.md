@@ -2,7 +2,7 @@
 
 **Difficulty:** Medium  
 **Tags:** Hash Table, Linked List, Design, Doubly-Linked List  
-**URL:** [LeetCode](https://leetcode.com/problems/lru-cache/submissions/2137645181/?difficulty=Easy&language=Java)
+**URL:** [LeetCode](https://leetcode.com/problems/lru-cache/?difficulty=Easy&language=Java)
 
 ---
 
