@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy  
 **Tags:** N/A  
-**URL:** [LeetCode](https://leetcode.com/contest/biweekly-contest-191/problems/count-values-with-equally-spaced-occurrences-i/)
+**URL:** [LeetCode](https://leetcode.com/contest/biweekly-contest-191/problems/count-values-with-equally-spaced-occurrences-i/submissions/2139683193/)
 
 ---
 
