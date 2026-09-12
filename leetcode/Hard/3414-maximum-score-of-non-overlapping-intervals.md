@@ -2,7 +2,7 @@
 
 **Difficulty:** Hard  
 **Tags:** Array, Binary Search, Dynamic Programming, Sorting  
-**URL:** [LeetCode](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/?envType=daily-question&envId=2026-09-12)
+**URL:** [LeetCode](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/submissions/2139672700/?envType=daily-question&envId=2026-09-12)
 
 ---
 
