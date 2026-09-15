@@ -2,7 +2,7 @@
 
 **Difficulty:** Medium  
 **Tags:** Hash Table, Linked List  
-**URL:** [LeetCode](https://leetcode.com/problems/copy-list-with-random-pointer/submissions/2137154221/)
+**URL:** [LeetCode](https://leetcode.com/problems/copy-list-with-random-pointer/)
 
 ---
 
@@ -12,4 +12,4 @@
 
 ```
 
-> Submitted on 2026-09-10
+> Submitted on 2026-09-15
