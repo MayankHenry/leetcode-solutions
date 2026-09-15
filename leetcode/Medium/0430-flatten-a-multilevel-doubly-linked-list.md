@@ -2,7 +2,7 @@
 
 **Difficulty:** Medium  
 **Tags:** Linked List, Depth-First Search, Doubly-Linked List  
-**URL:** [LeetCode](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/submissions/2142784803/)
+**URL:** [LeetCode](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)
 
 ---
 
