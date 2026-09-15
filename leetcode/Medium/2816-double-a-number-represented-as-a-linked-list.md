@@ -2,7 +2,7 @@
 
 **Difficulty:** Medium  
 **Tags:** Linked List, Math, Stack  
-**URL:** [LeetCode](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/)
+**URL:** [LeetCode](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/submissions/2142761773/)
 
 ---
 
