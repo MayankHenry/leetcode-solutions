@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy  
 **Tags:** Dynamic Programming, Bit Manipulation  
-**URL:** [LeetCode](https://leetcode.com/problems/counting-bits/)
+**URL:** [LeetCode](https://leetcode.com/problems/counting-bits/submissions/2143885795/)
 
 ---
 
