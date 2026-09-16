@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy  
 **Tags:** Array, Hash Table, Two Pointers, Binary Search, Sorting  
-**URL:** [LeetCode](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
+**URL:** [LeetCode](https://leetcode.com/problems/intersection-of-two-arrays-ii/submissions/2143337672/)
 
 ---
 
