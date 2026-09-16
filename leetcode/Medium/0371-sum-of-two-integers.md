@@ -2,7 +2,7 @@
 
 **Difficulty:** Medium  
 **Tags:** Math, Bit Manipulation  
-**URL:** [LeetCode](https://leetcode.com/problems/sum-of-two-integers/)
+**URL:** [LeetCode](https://leetcode.com/problems/sum-of-two-integers/submissions/2143341729/)
 
 ---
 
