@@ -2,7 +2,7 @@
 
 **Difficulty:** Medium  
 **Tags:** Array, String, Backtracking, Depth-First Search, Matrix  
-**URL:** [LeetCode](https://leetcode.com/problems/word-search/submissions/2134691129/)
+**URL:** [LeetCode](https://leetcode.com/problems/word-search/)
 
 ---
 
@@ -12,4 +12,4 @@
 
 ```
 
-> Submitted on 2026-09-08
+> Submitted on 2026-09-16
