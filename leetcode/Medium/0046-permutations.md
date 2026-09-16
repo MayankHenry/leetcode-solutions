@@ -2,7 +2,7 @@
 
 **Difficulty:** Medium  
 **Tags:** Array, Backtracking  
-**URL:** [LeetCode](https://leetcode.com/problems/permutations/submissions/2125768578/)
+**URL:** [LeetCode](https://leetcode.com/problems/permutations/)
 
 ---
 
