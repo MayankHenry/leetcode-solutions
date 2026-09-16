@@ -2,7 +2,7 @@
 
 **Difficulty:** Medium  
 **Tags:** Math, Dynamic Programming, Combinatorics, Prefix Sum  
-**URL:** [LeetCode](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/?envType=daily-question&envId=2026-09-16)
+**URL:** [LeetCode](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/submissions/2143425237/?envType=daily-question&envId=2026-09-16)
 
 ---
 
