@@ -2,7 +2,7 @@
 
 **Difficulty:** Medium  
 **Tags:** Array, Two Pointers, Greedy  
-**URL:** [LeetCode](https://leetcode.com/problems/container-with-most-water/)
+**URL:** [LeetCode](https://leetcode.com/problems/container-with-most-water/description/)
 
 ---
 
