@@ -2,7 +2,7 @@
 
 **Difficulty:** Medium  
 **Tags:** Hash Table, String, Sliding Window  
-**URL:** [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/2143373885/)
+**URL:** [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
 ---
 
@@ -12,4 +12,4 @@
 
 ```
 
-> Submitted on 2026-09-16
+> Submitted on 2026-09-17
