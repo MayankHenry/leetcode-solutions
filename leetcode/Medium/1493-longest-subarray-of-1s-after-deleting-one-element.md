@@ -2,7 +2,7 @@
 
 **Difficulty:** Medium  
 **Tags:** Array, Dynamic Programming, Sliding Window  
-**URL:** [LeetCode](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)
+**URL:** [LeetCode](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/submissions/2144401758/)
 
 ---
 
