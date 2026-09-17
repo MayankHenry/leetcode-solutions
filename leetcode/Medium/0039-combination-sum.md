@@ -2,7 +2,7 @@
 
 **Difficulty:** Medium  
 **Tags:** Array, Backtracking  
-**URL:** [LeetCode](https://leetcode.com/problems/combination-sum/submissions/2143832164/)
+**URL:** [LeetCode](https://leetcode.com/problems/combination-sum/)
 
 ---
 
@@ -12,4 +12,4 @@
 
 ```
 
-> Submitted on 2026-09-16
+> Submitted on 2026-09-17
