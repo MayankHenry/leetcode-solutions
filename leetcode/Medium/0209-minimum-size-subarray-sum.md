@@ -2,7 +2,7 @@
 
 **Difficulty:** Medium  
 **Tags:** Array, Binary Search, Sliding Window, Prefix Sum  
-**URL:** [LeetCode](https://leetcode.com/problems/minimum-size-subarray-sum/submissions/2143384754/)
+**URL:** [LeetCode](https://leetcode.com/problems/minimum-size-subarray-sum/)
 
 ---
 
@@ -12,4 +12,4 @@
 
 ```
 
-> Submitted on 2026-09-16
+> Submitted on 2026-09-17
