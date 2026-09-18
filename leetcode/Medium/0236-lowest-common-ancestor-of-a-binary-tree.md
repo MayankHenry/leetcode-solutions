@@ -2,7 +2,7 @@
 
 **Difficulty:** Medium  
 **Tags:** Tree, Depth-First Search, Binary Tree, Binary Lifting, Lowest Common Ancestor  
-**URL:** [LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/)
+**URL:** [LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/submissions/2145578250/)
 
 ---
 
@@ -12,4 +12,4 @@
 
 ```
 
-> Submitted on 2026-09-16
+> Submitted on 2026-09-18
