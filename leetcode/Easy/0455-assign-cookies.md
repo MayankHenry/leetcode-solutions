@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy  
 **Tags:** Array, Two Pointers, Greedy, Sorting, Quicksort  
-**URL:** [LeetCode](https://leetcode.com/problems/assign-cookies/submissions/2145814347/)
+**URL:** [LeetCode](https://leetcode.com/problems/assign-cookies/)
 
 ---
 
@@ -12,4 +12,4 @@
 
 ```
 
-> Submitted on 2026-09-18
+> Submitted on 2026-09-19
