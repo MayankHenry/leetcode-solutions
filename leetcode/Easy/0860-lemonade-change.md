@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy  
 **Tags:** Array, Greedy  
-**URL:** [LeetCode](https://leetcode.com/problems/lemonade-change/submissions/2146844384/)
+**URL:** [LeetCode](https://leetcode.com/problems/lemonade-change/)
 
 ---
 
