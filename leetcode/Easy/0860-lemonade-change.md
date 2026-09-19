@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy  
 **Tags:** Array, Greedy  
-**URL:** [LeetCode](https://leetcode.com/problems/lemonade-change/submissions/2145824006/)
+**URL:** [LeetCode](https://leetcode.com/problems/lemonade-change/)
 
 ---
 
@@ -12,4 +12,4 @@
 
 ```
 
-> Submitted on 2026-09-18
+> Submitted on 2026-09-19
