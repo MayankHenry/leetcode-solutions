@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy  
 **Tags:** Array, Greedy  
-**URL:** [LeetCode](https://leetcode.com/problems/can-place-flowers/submissions/2146830967/)
+**URL:** [LeetCode](https://leetcode.com/problems/can-place-flowers/)
 
 ---
 
