@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy  
 **Tags:** String, Simulation  
-**URL:** [LeetCode](https://leetcode.com/problems/reverse-degree-of-a-string/?envType=daily-question&envId=2026-09-20)
+**URL:** [LeetCode](https://leetcode.com/problems/reverse-degree-of-a-string/submissions/2147831120/?envType=daily-question&envId=2026-09-20)
 
 ---
 
