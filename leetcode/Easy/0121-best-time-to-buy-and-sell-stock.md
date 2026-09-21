@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy  
 **Tags:** Array, Dynamic Programming  
-**URL:** [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+**URL:** [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/2148370483/)
 
 ---
 
@@ -12,4 +12,4 @@
 
 ```
 
-> Submitted on 2026-09-19
+> Submitted on 2026-09-21
