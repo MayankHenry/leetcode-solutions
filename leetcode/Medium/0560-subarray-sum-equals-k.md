@@ -2,7 +2,7 @@
 
 **Difficulty:** Medium  
 **Tags:** Array, Hash Table, Prefix Sum  
-**URL:** [LeetCode](https://leetcode.com/problems/subarray-sum-equals-k/)
+**URL:** [LeetCode](https://leetcode.com/problems/subarray-sum-equals-k/submissions/2151705136/)
 
 ---
 
