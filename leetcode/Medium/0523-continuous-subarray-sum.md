@@ -2,7 +2,7 @@
 
 **Difficulty:** Medium  
 **Tags:** Array, Hash Table, Math, Prefix Sum, Pigeonhole Principle  
-**URL:** [LeetCode](https://leetcode.com/problems/continuous-subarray-sum/submissions/2151688819/)
+**URL:** [LeetCode](https://leetcode.com/problems/continuous-subarray-sum/)
 
 ---
 
