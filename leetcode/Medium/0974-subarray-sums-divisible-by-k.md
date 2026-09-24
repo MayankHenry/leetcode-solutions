@@ -2,7 +2,7 @@
 
 **Difficulty:** Medium  
 **Tags:** Array, Hash Table, Prefix Sum  
-**URL:** [LeetCode](https://leetcode.com/problems/subarray-sums-divisible-by-k/)
+**URL:** [LeetCode](https://leetcode.com/problems/subarray-sums-divisible-by-k/submissions/2151619722/)
 
 ---
 
