@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy  
 **Tags:** Array, Math  
-**URL:** [LeetCode](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/solutions/?envType=daily-question&envId=2026-09-25)
+**URL:** [LeetCode](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/submissions/2152804587/?envType=daily-question&envId=2026-09-25)
 
 ---
 
