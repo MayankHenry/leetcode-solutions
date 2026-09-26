@@ -2,7 +2,7 @@
 
 **Difficulty:** Medium  
 **Tags:** Array, Hash Table, String  
-**URL:** [LeetCode](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/description/?envType=daily-question&envId=2026-09-26)
+**URL:** [LeetCode](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/submissions/2153954299/?envType=daily-question&envId=2026-09-26)
 
 ---
 
