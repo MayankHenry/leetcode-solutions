@@ -2,7 +2,7 @@
 
 **Difficulty:** Medium  
 **Tags:** String, Stack, Bracket Sequences  
-**URL:** [LeetCode](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/?envType=daily-question&envId=2026-09-27)
+**URL:** [LeetCode](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/submissions/2154589451/?envType=daily-question&envId=2026-09-27)
 
 ---
 
