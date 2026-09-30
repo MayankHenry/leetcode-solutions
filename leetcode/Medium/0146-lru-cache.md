@@ -2,7 +2,7 @@
 
 **Difficulty:** Medium  
 **Tags:** Hash Table, Linked List, Design, Doubly-Linked List  
-**URL:** [LeetCode](https://leetcode.com/problems/lru-cache/?difficulty=Easy&language=Java)
+**URL:** [LeetCode](https://leetcode.com/problems/lru-cache/)
 
 ---
 
@@ -12,4 +12,4 @@
 
 ```
 
-> Submitted on 2026-09-10
+> Submitted on 2026-09-30
