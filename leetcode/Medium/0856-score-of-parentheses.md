@@ -2,7 +2,7 @@
 
 **Difficulty:** Medium  
 **Tags:** String, Stack, Bracket Sequences  
-**URL:** [LeetCode](https://leetcode.com/problems/score-of-parentheses/submissions/2163350495/?envType=daily-question&envId=2026-10-05)
+**URL:** [LeetCode](https://leetcode.com/problems/score-of-parentheses/submissions/2163350607/?envType=daily-question&envId=2026-10-05)
 
 ---
 
