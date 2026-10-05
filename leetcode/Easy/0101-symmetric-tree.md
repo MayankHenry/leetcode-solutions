@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy  
 **Tags:** N/A  
-**URL:** [LeetCode](https://leetcode.com/problems/symmetric-tree/submissions/)
+**URL:** [LeetCode](https://leetcode.com/problems/symmetric-tree/description/)
 
 ---
 
