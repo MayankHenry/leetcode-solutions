@@ -2,7 +2,7 @@
 
 **Difficulty:** Medium  
 **Tags:** Math, Dynamic Programming, Combinatorics  
-**URL:** [LeetCode](https://leetcode.com/problems/unique-paths/)
+**URL:** [LeetCode](https://leetcode.com/problems/unique-paths/submissions/2164036897/)
 
 ---
 
