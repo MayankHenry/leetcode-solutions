@@ -2,7 +2,7 @@
 
 **Difficulty:** Hard  
 **Tags:** Array, Dynamic Programming, Matrix  
-**URL:** [LeetCode](https://leetcode.com/problems/dungeon-game/submissions/2164931986/)
+**URL:** [LeetCode](https://leetcode.com/problems/dungeon-game/)
 
 ---
 
