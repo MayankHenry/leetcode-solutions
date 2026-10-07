@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy  
 **Tags:** N/A  
-**URL:** [LeetCode](https://leetcode.com/problems/diameter-of-binary-tree/submissions/)
+**URL:** [LeetCode](https://leetcode.com/problems/diameter-of-binary-tree/description/)
 
 ---
 
