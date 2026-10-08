@@ -1,7 +1,7 @@
 # 98. Validate Binary Search Tree
 
 **Difficulty:** Medium  
-**Tags:** Tree, Depth-First Search, Binary Search Tree, Binary Tree  
+**Tags:** N/A  
 **URL:** [LeetCode](https://leetcode.com/problems/validate-binary-search-tree/)
 
 ---
@@ -12,4 +12,4 @@
 
 ```
 
-> Submitted on 2026-09-16
+> Submitted on 2026-10-08
