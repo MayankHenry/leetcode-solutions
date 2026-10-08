@@ -2,7 +2,7 @@
 
 **Difficulty:** Medium  
 **Tags:** N/A  
-**URL:** [LeetCode](https://leetcode.com/problems/insert-into-a-binary-search-tree/)
+**URL:** [LeetCode](https://leetcode.com/problems/insert-into-a-binary-search-tree/description/)
 
 ---
 
