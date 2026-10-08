@@ -2,7 +2,7 @@
 
 **Difficulty:** Medium  
 **Tags:** N/A  
-**URL:** [LeetCode](https://leetcode.com/problems/delete-node-in-a-bst/)
+**URL:** [LeetCode](https://leetcode.com/problems/delete-node-in-a-bst/description/)
 
 ---
 
