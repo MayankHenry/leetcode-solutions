@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy  
 **Tags:** Math, Dynamic Programming, Memoization  
-**URL:** [LeetCode](https://leetcode.com/problems/climbing-stairs/submissions/2162044408/)
+**URL:** [LeetCode](https://leetcode.com/problems/climbing-stairs/)
 
 ---
 
@@ -12,4 +12,4 @@
 
 ```
 
-> Submitted on 2026-10-04
+> Submitted on 2026-10-09
