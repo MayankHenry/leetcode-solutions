@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy  
 **Tags:** Two Pointers, String  
-**URL:** [LeetCode](https://leetcode.com/problems/reverse-string/)
+**URL:** [LeetCode](https://leetcode.com/problems/reverse-string/submissions/2168125113/)
 
 ---
 
