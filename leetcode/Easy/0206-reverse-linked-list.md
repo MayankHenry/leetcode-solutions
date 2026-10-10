@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy  
 **Tags:** Linked List, Recursion  
-**URL:** [LeetCode](https://leetcode.com/problems/reverse-linked-list/)
+**URL:** [LeetCode](https://leetcode.com/problems/reverse-linked-list/submissions/2168130149/)
 
 ---
 
