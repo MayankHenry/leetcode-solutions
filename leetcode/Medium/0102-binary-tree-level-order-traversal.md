@@ -2,7 +2,7 @@
 
 **Difficulty:** Medium  
 **Tags:** Tree, Breadth-First Search, Binary Tree  
-**URL:** [LeetCode](https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/)
+**URL:** [LeetCode](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)
 
 ---
 
