@@ -1,7 +1,7 @@
 # 112. Path Sum
 
 **Difficulty:** Easy  
-**Tags:** N/A  
+**Tags:** Tree, Depth-First Search, Breadth-First Search, Binary Tree  
 **URL:** [LeetCode](https://leetcode.com/problems/path-sum/)
 
 ---
@@ -12,4 +12,4 @@
 
 ```
 
-> Submitted on 2026-10-05
+> Submitted on 2026-10-12
