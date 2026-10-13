@@ -2,7 +2,7 @@
 
 **Difficulty:** Medium  
 **Tags:** Hash Table, Linked List, Two Pointers, Floyd's Cycle Finding Algorithm  
-**URL:** [LeetCode](https://leetcode.com/problems/linked-list-cycle-ii/submissions/2134142931/?difficulty=Easy&language=Java)
+**URL:** [LeetCode](https://leetcode.com/problems/linked-list-cycle-ii/)
 
 ---
 
@@ -12,4 +12,4 @@
 
 ```
 
-> Submitted on 2026-09-07
+> Submitted on 2026-10-13
