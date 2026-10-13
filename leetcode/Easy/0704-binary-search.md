@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy  
 **Tags:** Array, Binary Search  
-**URL:** [LeetCode](https://leetcode.com/problems/binary-search/)
+**URL:** [LeetCode](https://leetcode.com/problems/binary-search/submissions/2170819806/)
 
 ---
 
