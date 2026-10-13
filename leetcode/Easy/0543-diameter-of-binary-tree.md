@@ -1,8 +1,8 @@
 # 543. Diameter of Binary Tree
 
 **Difficulty:** Easy  
-**Tags:** N/A  
-**URL:** [LeetCode](https://leetcode.com/problems/diameter-of-binary-tree/description/)
+**Tags:** Tree, Depth-First Search, Binary Tree, DP on Trees  
+**URL:** [LeetCode](https://leetcode.com/problems/diameter-of-binary-tree/)
 
 ---
 
@@ -12,4 +12,4 @@
 
 ```
 
-> Submitted on 2026-10-07
+> Submitted on 2026-10-13
