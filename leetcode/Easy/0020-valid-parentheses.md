@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy  
 **Tags:** String, Stack, Bracket Sequences  
-**URL:** [LeetCode](https://leetcode.com/problems/valid-parentheses/)
+**URL:** [LeetCode](https://leetcode.com/problems/valid-parentheses/description/)
 
 ---
 
