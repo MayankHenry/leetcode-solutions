@@ -2,7 +2,7 @@
 
 **Difficulty:** Medium  
 **Tags:** Array, Dynamic Programming  
-**URL:** [LeetCode](https://leetcode.com/problems/triangle/submissions/2173578515/)
+**URL:** [LeetCode](https://leetcode.com/problems/triangle/submissions/2173579061/)
 
 ---
 
