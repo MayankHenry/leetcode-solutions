@@ -2,7 +2,7 @@
 
 **Difficulty:** Medium  
 **Tags:** String, Stack, Greedy, Bracket Sequences  
-**URL:** [LeetCode](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/submissions/2174506381/)
+**URL:** [LeetCode](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)
 
 ---
 
