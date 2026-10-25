@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy  
 **Tags:** Math, Dynamic Programming, Recursion, Memoization  
-**URL:** [LeetCode](https://leetcode.com/problems/fibonacci-number/submissions/2168117266/)
+**URL:** [LeetCode](https://leetcode.com/problems/fibonacci-number/)
 
 ---
 
@@ -12,4 +12,4 @@
 
 ```
 
-> Submitted on 2026-10-10
+> Submitted on 2026-10-25
