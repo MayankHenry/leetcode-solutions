@@ -2,7 +2,7 @@
 
 **Difficulty:** Medium  
 **Tags:** Array, Dynamic Programming  
-**URL:** [LeetCode](https://leetcode.com/problems/house-robber-ii/submissions/2181969080/)
+**URL:** [LeetCode](https://leetcode.com/problems/house-robber-ii/)
 
 ---
 
