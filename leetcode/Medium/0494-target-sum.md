@@ -2,7 +2,7 @@
 
 **Difficulty:** Medium  
 **Tags:** Array, Dynamic Programming, Backtracking, Knapsack Problem, 0-1 Knapsack  
-**URL:** [LeetCode](https://leetcode.com/problems/target-sum/submissions/2181946547/)
+**URL:** [LeetCode](https://leetcode.com/problems/target-sum/)
 
 ---
 
