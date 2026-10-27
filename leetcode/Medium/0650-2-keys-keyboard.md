@@ -2,7 +2,7 @@
 
 **Difficulty:** Medium  
 **Tags:** Math, Dynamic Programming  
-**URL:** [LeetCode](https://leetcode.com/problems/2-keys-keyboard/submissions/2182816061/)
+**URL:** [LeetCode](https://leetcode.com/problems/2-keys-keyboard/submissions/2182818326/)
 
 ---
 
