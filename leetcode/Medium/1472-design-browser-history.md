@@ -2,7 +2,7 @@
 
 **Difficulty:** Medium  
 **Tags:** Array, Linked List, Stack, Design, Doubly-Linked List, Data Stream  
-**URL:** [LeetCode](https://leetcode.com/problems/design-browser-history/)
+**URL:** [LeetCode](https://leetcode.com/problems/design-browser-history/submissions/2184523223/)
 
 ---
 
