@@ -2,7 +2,7 @@
 
 **Difficulty:** Medium  
 **Tags:** String, Dynamic Programming, Longest Common Subsequence  
-**URL:** [LeetCode](https://leetcode.com/problems/longest-common-subsequence/submissions/2185260981/)
+**URL:** [LeetCode](https://leetcode.com/problems/longest-common-subsequence/)
 
 ---
 
