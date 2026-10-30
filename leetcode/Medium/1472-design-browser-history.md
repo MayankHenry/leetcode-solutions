@@ -1,8 +1,8 @@
 # 1472. Design Browser History
 
 **Difficulty:** Medium  
-**Tags:** Array, Linked List, Stack, Design, Doubly-Linked List, Data Stream  
-**URL:** [LeetCode](https://leetcode.com/problems/design-browser-history/submissions/2184523223/)
+**Tags:** N/A  
+**URL:** [LeetCode](https://leetcode.com/problems/design-browser-history/)
 
 ---
 
@@ -12,4 +12,4 @@
 
 ```
 
-> Submitted on 2026-10-29
+> Submitted on 2026-10-30
