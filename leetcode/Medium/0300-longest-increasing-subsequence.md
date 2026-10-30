@@ -2,7 +2,7 @@
 
 **Difficulty:** Medium  
 **Tags:** Array, Binary Search, Dynamic Programming, Longest Increasing Subsequence  
-**URL:** [LeetCode](https://leetcode.com/problems/longest-increasing-subsequence/submissions/2172798143/)
+**URL:** [LeetCode](https://leetcode.com/problems/longest-increasing-subsequence/)
 
 ---
 
@@ -12,4 +12,4 @@
 
 ```
 
-> Submitted on 2026-10-15
+> Submitted on 2026-10-30
