@@ -2,7 +2,7 @@
 
 **Difficulty:** Medium  
 **Tags:** Array, Math, Sorting  
-**URL:** [LeetCode](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/?envType=daily-question&envId=2026-11-02)
+**URL:** [LeetCode](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/submissions/2187509622/?envType=daily-question&envId=2026-11-02)
 
 ---
 
