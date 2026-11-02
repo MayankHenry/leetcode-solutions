@@ -1,7 +1,7 @@
 # 3. Longest Substring Without Repeating Characters
 
 **Difficulty:** Medium  
-**Tags:** Hash Table, String, Sliding Window  
+**Tags:** N/A  
 **URL:** [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
 ---
@@ -12,4 +12,4 @@
 
 ```
 
-> Submitted on 2026-09-17
+> Submitted on 2026-11-02
