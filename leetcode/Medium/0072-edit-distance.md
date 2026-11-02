@@ -2,7 +2,7 @@
 
 **Difficulty:** Medium  
 **Tags:** String, Dynamic Programming  
-**URL:** [LeetCode](https://leetcode.com/problems/edit-distance/submissions/2178540645/)
+**URL:** [LeetCode](https://leetcode.com/problems/edit-distance/)
 
 ---
 
@@ -12,4 +12,4 @@
 
 ```
 
-> Submitted on 2026-10-22
+> Submitted on 2026-11-02
