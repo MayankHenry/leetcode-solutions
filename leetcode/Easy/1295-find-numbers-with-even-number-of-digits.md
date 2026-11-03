@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy  
 **Tags:** Array, Math  
-**URL:** [LeetCode](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/?utm_source=chatgpt.com)
+**URL:** [LeetCode](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/submissions/2188673289/?utm_source=chatgpt.com)
 
 ---
 
