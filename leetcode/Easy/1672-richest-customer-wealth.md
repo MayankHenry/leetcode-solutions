@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy  
 **Tags:** Array, Matrix  
-**URL:** [LeetCode](https://leetcode.com/problems/richest-customer-wealth/?utm_source=chatgpt.com)
+**URL:** [LeetCode](https://leetcode.com/problems/richest-customer-wealth/submissions/2188678086/?utm_source=chatgpt.com)
 
 ---
 
