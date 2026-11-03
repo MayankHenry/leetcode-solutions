@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy  
 **Tags:** Array, Prefix Sum  
-**URL:** [LeetCode](https://leetcode.com/problems/running-sum-of-1d-array/?utm_source=chatgpt.com)
+**URL:** [LeetCode](https://leetcode.com/problems/running-sum-of-1d-array/submissions/2188661170/?utm_source=chatgpt.com)
 
 ---
 
