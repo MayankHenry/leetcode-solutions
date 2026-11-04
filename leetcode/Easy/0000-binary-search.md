@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy  
 **Tags:** Array, Binary Search  
-**URL:** [LeetCode](https://leetcode.com/problems/binary-search/?utm_source=chatgpt.com)
+**URL:** [LeetCode](https://leetcode.com/problems/binary-search/description/?utm_source=chatgpt.com)
 
 ---
 
