@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy  
 **Tags:** Array, Hash Table  
-**URL:** [LeetCode](https://leetcode.com/problems/two-sum/)
+**URL:** [LeetCode](https://leetcode.com/problems/two-sum/?utm_source=chatgpt.com)
 
 ---
 
@@ -12,4 +12,4 @@
 
 ```
 
-> Submitted on 2026-10-12
+> Submitted on 2026-11-04
