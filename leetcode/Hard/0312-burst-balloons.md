@@ -2,7 +2,7 @@
 
 **Difficulty:** Hard  
 **Tags:** Array, Dynamic Programming  
-**URL:** [LeetCode](https://leetcode.com/problems/burst-balloons/submissions/2189103384/)
+**URL:** [LeetCode](https://leetcode.com/problems/burst-balloons/)
 
 ---
 
