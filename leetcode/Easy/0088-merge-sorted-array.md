@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy  
 **Tags:** Array, Two Pointers, Sorting  
-**URL:** [LeetCode](https://leetcode.com/problems/merge-sorted-array/?utm_source=chatgpt.com)
+**URL:** [LeetCode](https://leetcode.com/problems/merge-sorted-array/submissions/2189473225/?utm_source=chatgpt.com)
 
 ---
 
