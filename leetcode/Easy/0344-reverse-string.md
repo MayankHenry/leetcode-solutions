@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy  
 **Tags:** Two Pointers, String  
-**URL:** [LeetCode](https://leetcode.com/problems/reverse-string/?utm_source=chatgpt.com)
+**URL:** [LeetCode](https://leetcode.com/problems/reverse-string/submissions/2189816735/?utm_source=chatgpt.com)
 
 ---
 
