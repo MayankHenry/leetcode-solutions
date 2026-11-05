@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy  
 **Tags:** Two Pointers, String  
-**URL:** [LeetCode](https://leetcode.com/problems/valid-palindrome/?utm_source=chatgpt.com)
+**URL:** [LeetCode](https://leetcode.com/problems/valid-palindrome/submissions/2189811157/?utm_source=chatgpt.com)
 
 ---
 
