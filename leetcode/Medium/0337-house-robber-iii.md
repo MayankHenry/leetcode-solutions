@@ -2,7 +2,7 @@
 
 **Difficulty:** Medium  
 **Tags:** Dynamic Programming, Tree, Depth-First Search, Binary Tree, DP on Trees  
-**URL:** [LeetCode](https://leetcode.com/problems/house-robber-iii/submissions/2189863132/)
+**URL:** [LeetCode](https://leetcode.com/problems/house-robber-iii/)
 
 ---
 
