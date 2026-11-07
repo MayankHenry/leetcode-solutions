@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy  
 **Tags:** Array, Hash Table, Sorting  
-**URL:** [LeetCode](https://leetcode.com/problems/contains-duplicate/)
+**URL:** [LeetCode](https://leetcode.com/problems/contains-duplicate/?utm_source=chatgpt.com)
 
 ---
 
@@ -12,4 +12,4 @@
 
 ```
 
-> Submitted on 2026-10-13
+> Submitted on 2026-11-07
