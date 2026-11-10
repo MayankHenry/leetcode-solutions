@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy  
 **Tags:** Array, Sliding Window  
-**URL:** [LeetCode](https://leetcode.com/problems/maximum-average-subarray-i/?utm_source=chatgpt.com)
+**URL:** [LeetCode](https://leetcode.com/problems/maximum-average-subarray-i/submissions/2193266576/?utm_source=chatgpt.com)
 
 ---
 
