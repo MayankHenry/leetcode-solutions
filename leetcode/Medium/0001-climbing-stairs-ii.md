@@ -2,7 +2,7 @@
 
 **Difficulty:** Medium  
 **Tags:** Array, Dynamic Programming  
-**URL:** [LeetCode](https://leetcode.com/problems/climbing-stairs-ii/?envType=daily-question&envId=2026-11-10)
+**URL:** [LeetCode](https://leetcode.com/problems/climbing-stairs-ii/submissions/2193282497/?envType=daily-question&envId=2026-11-10)
 
 ---
 
