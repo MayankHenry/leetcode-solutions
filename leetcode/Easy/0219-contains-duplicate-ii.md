@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy  
 **Tags:** Array, Hash Table, Sliding Window  
-**URL:** [LeetCode](https://leetcode.com/problems/contains-duplicate-ii/)
+**URL:** [LeetCode](https://leetcode.com/problems/contains-duplicate-ii/submissions/2194700406/)
 
 ---
 
