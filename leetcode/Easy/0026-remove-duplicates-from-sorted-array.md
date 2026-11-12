@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy  
 **Tags:** Array, Two Pointers  
-**URL:** [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+**URL:** [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/2101120964/)
 
 ---
 
