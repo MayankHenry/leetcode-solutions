@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy  
 **Tags:** Array, Hash Table, Sliding Window  
-**URL:** [LeetCode](https://leetcode.com/problems/contains-duplicate-ii/description/?utm_source=chatgpt.com)
+**URL:** [LeetCode](https://leetcode.com/problems/contains-duplicate-ii/)
 
 ---
 
@@ -12,4 +12,4 @@
 
 ```
 
-> Submitted on 2026-11-10
+> Submitted on 2026-11-12
