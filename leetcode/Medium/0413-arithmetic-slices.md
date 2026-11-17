@@ -2,7 +2,7 @@
 
 **Difficulty:** Medium  
 **Tags:** Array, Dynamic Programming, Sliding Window  
-**URL:** [LeetCode](https://leetcode.com/problems/arithmetic-slices/submissions/2197774018/)
+**URL:** [LeetCode](https://leetcode.com/problems/arithmetic-slices/)
 
 ---
 
