@@ -2,7 +2,7 @@
 
 **Difficulty:** Medium  
 **Tags:** Hash Table, String, Backtracking  
-**URL:** [LeetCode](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+**URL:** [LeetCode](https://leetcode.com/problems/letter-combinations-of-a-phone-number/submissions/2198102717/)
 
 ---
 
