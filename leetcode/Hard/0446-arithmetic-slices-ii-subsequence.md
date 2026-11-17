@@ -2,7 +2,7 @@
 
 **Difficulty:** Hard  
 **Tags:** Array, Dynamic Programming  
-**URL:** [LeetCode](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/submissions/2197737888/)
+**URL:** [LeetCode](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/submissions/2197740588/)
 
 ---
 
