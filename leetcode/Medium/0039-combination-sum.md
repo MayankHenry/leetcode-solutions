@@ -1,7 +1,7 @@
 # 39. Combination Sum
 
 **Difficulty:** Medium  
-**Tags:** N/A  
+**Tags:** Array, Backtracking  
 **URL:** [LeetCode](https://leetcode.com/problems/combination-sum/)
 
 ---
@@ -12,4 +12,4 @@
 
 ```
 
-> Submitted on 2026-11-16
+> Submitted on 2026-11-17
