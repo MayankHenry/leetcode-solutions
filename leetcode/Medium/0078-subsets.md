@@ -2,7 +2,7 @@
 
 **Difficulty:** Medium  
 **Tags:** Array, Backtracking, Bit Manipulation  
-**URL:** [LeetCode](https://leetcode.com/problems/subsets/submissions/2195879321/)
+**URL:** [LeetCode](https://leetcode.com/problems/subsets/)
 
 ---
 
@@ -12,4 +12,4 @@
 
 ```
 
-> Submitted on 2026-11-14
+> Submitted on 2026-11-17
