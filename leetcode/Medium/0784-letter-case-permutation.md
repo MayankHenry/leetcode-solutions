@@ -2,7 +2,7 @@
 
 **Difficulty:** Medium  
 **Tags:** String, Backtracking, Bit Manipulation  
-**URL:** [LeetCode](https://leetcode.com/problems/letter-case-permutation/submissions/2133771683/?difficulty=Easy&language=Java)
+**URL:** [LeetCode](https://leetcode.com/problems/letter-case-permutation/)
 
 ---
 
@@ -12,4 +12,4 @@
 
 ```
 
-> Submitted on 2026-09-07
+> Submitted on 2026-11-17
