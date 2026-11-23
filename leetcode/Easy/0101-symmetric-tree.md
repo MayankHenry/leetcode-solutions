@@ -1,8 +1,8 @@
 # 101. Symmetric Tree
 
 **Difficulty:** Easy  
-**Tags:** N/A  
-**URL:** [LeetCode](https://leetcode.com/problems/symmetric-tree/description/)
+**Tags:** Tree, Depth-First Search, Breadth-First Search, Binary Tree  
+**URL:** [LeetCode](https://leetcode.com/problems/symmetric-tree/)
 
 ---
 
@@ -12,4 +12,4 @@
 
 ```
 
-> Submitted on 2026-10-05
+> Submitted on 2026-11-23
