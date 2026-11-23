@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy  
 **Tags:** Tree, Depth-First Search, Binary Tree, DP on Trees  
-**URL:** [LeetCode](https://leetcode.com/problems/diameter-of-binary-tree/)
+**URL:** [LeetCode](https://leetcode.com/problems/diameter-of-binary-tree/submissions/2202015373/)
 
 ---
 
