@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy  
 **Tags:** Tree, Depth-First Search, Breadth-First Search, Binary Tree  
-**URL:** [LeetCode](https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/2169914963/)
+**URL:** [LeetCode](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 
 ---
 
@@ -12,4 +12,4 @@
 
 ```
 
-> Submitted on 2026-10-12
+> Submitted on 2026-11-23
