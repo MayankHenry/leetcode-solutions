@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy  
 **Tags:** Tree, Depth-First Search, Breadth-First Search, Binary Tree  
-**URL:** [LeetCode](https://leetcode.com/problems/same-tree/submissions/2170057402/)
+**URL:** [LeetCode](https://leetcode.com/problems/same-tree/)
 
 ---
 
@@ -12,4 +12,4 @@
 
 ```
 
-> Submitted on 2026-10-12
+> Submitted on 2026-11-23
