@@ -1,7 +1,7 @@
 # 110. Balanced Binary Tree
 
 **Difficulty:** Easy  
-**Tags:** N/A  
+**Tags:** Tree, Depth-First Search, Binary Tree  
 **URL:** [LeetCode](https://leetcode.com/problems/balanced-binary-tree/)
 
 ---
@@ -12,4 +12,4 @@
 
 ```
 
-> Submitted on 2026-10-08
+> Submitted on 2026-11-23
